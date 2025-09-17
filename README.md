@@ -1,4 +1,6 @@
-## JEU : PIERRE FEUILLE CISEAUX
+## JEU : PIERRE FEUILLE CISEAUX ✂️👊
+
+![Design preview for the project](./img/preview.png)
 
 ## Le challenge
 
@@ -18,6 +20,10 @@ Pour jouer :
 - les scores se mettent à jour en fonction du gagnant.
 
 - Page web responsive
+
+## Démonstration
+
+lien vers le projet : https://aperbet56.github.io/rock_paper_scissors_game/
 
 ## Développez avec
 
